@@ -46,7 +46,7 @@ export default function EmailSignIn({
               autoCapitalize="none"
               autoComplete="email"
               autoCorrect="off"
-              className="w-full p-3 rounded-md bg-zinc-800"
+              className="py-2 px-3 w-full appearance-none transition duration-150 ease-in-out border border-zinc-500 text-black bg-white focus:outline-none"
             />
           </div>
           <Button
